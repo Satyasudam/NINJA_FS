@@ -1,4 +1,4 @@
-# DCFS: Distributed Collaborative Filesystem
+# DCFS: Distributed Collaborative Filesystem (PosiXNetFS)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Linux-blue)
