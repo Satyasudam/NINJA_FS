@@ -70,13 +70,13 @@ Bash
 
 This will generate the following executables:
 
-    dcfs_server
+    ./dcfs_server
 
-    dcfs_client
+    ./dcfs_client
 
-    dcfs_sync_daemon
+    ./dcfs_sync_daemon
 
-    dcfs_cli
+    ./dcfs_cli
 
 💻 Usage Guide
 
