@@ -119,7 +119,7 @@ cat hello.txt
 Check the output in Terminal 2 (Daemon) and Terminal 1 (Server) to see the file being uploaded in the background!
 📂 Project Structure
 Plaintext
-
+```bash
 dcfs/
 ├── client/
 │   ├── fuse_ops.c       # FUSE callbacks (read, write, getattr)
@@ -134,3 +134,4 @@ dcfs/
 │   └── utils.c          # Helper functions
 ├── CMakeLists.txt       # Build configuration
 └── README.md            # This file
+```
